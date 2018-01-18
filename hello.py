@@ -1,2 +1,2 @@
-'rint 'hello'
+print 'hello'
 
